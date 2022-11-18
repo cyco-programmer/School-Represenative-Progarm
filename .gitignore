@@ -5,7 +5,7 @@ public class Scl_Rep
         if(userid==20110018)
         System.out.println("Name: Aritra Ghosh || Password: "+pass);
         if(userid==20110019)
-        System.out.println("Name: Preety Ghosh || Password: "+pass);
+        System.out.println("Name: Bidisha Roy || Password: "+pass);
         if(userid==20110020)
         System.out.println("Name: Arif Sk || Password: "+pass);
         if(userid==20110021)
@@ -19,22 +19,10 @@ public class Scl_Rep
         if(userid==20110025)
         System.out.println("Name: Krish Sharma || Password: "+pass);
         if(userid==20110026)
-        System.out.println("Name: Bidisha Roy || Password: "+pass);
+        System.out.println("Name: Sania Pir || Password: "+pass);
         if(userid==20110027)
         System.out.println("Name: Sriparna Dey || Password: "+pass);
-        if(uderid==20110028)
-        System.out.println("Name: Krishanu Ghosh || Password: "+pass);
-        if(userid==20110029)
-        System.out.println("Name: Rishit Agarwal || Password: "+pass);
-        if(userid==20110030)
-        System.out.println("Name: Sunrit Saha || Password: "+pass);
-        if(userid==20110031)
-        System.out.println("Name: Ritik Raj || Passowrd: "+pass);
-        if(userid==20110032)
-        System.out.println("Name: Sugata Ghosh || Passowrd: "+pass);
-        if(userid==20110033)
-        System.out.println("Name: Anik Dhar || Passowrd: "+pass);
-        if(userid==20110034)
-        System.out.println("Name: Souvik Ghosh || Passowrd: "+pass);
+        if(userid==20110028)
+        System.out.println("Name: Preety Ghosh || Passowrd: "+pass);
     }
 }
