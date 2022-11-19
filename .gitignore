@@ -24,5 +24,9 @@ public class Scl_Rep
         System.out.println("Name: Sriparna Dey || Password: "+pass);
         if(userid==20110028)
         System.out.println("Name: Preety Ghosh || Passowrd: "+pass);
+        if(userid==20110029)
+        System.out.println("Name: Ritik Raj || Password: "+pass);
+        if(userid==20110030)
+        System.out.println("Name: Krishanu Saha || Password: "+pass);
     }
 }
